@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Erwin-Mota
-- 👀 I’m interested in Software engineering, web development, software development
-- 🌱 I’m currently an undergraduate student pursuing a Computer Engineering degree
-- 📫 How to reach me: Email:Erwin.motallebii@gmail.com
-- 😄 Pronouns: He/Him
+-  Hi, I’m @Erwin-Mota
+-  I’m interested in Software engineering, Data science, Data engineering, Web development, Software development
+-  I’m currently an undergraduate student pursuing a Computer Engineering Bachelors of Science
+-  How to reach me: Email:Erwin.motallebii@gmail.com
+
 
 
 <!---
